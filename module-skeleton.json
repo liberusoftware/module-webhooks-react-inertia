@@ -1,0 +1,25 @@
+{
+  "repository": "module-webhooks-react-inertia",
+  "capabilityKey": "liberusoftware/webhooks",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-webhooks-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/boilerplate/nextjs/webhooks.md",
+  "presentationPlan": "projects/boilerplate/react/webhooks.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
